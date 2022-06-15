@@ -1,20 +1,8 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Azure 104
-- 👯 I’m looking to collaborate on...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 
 
 ![giphy](https://user-images.githubusercontent.com/81150223/117401675-99016680-af37-11eb-8215-a5707d8a122e.gif)
 
-<h1 align="center">Hi 👋, I'm Reuben Chan</h1>
+<h1 align="center">Hi 👋, I'm Kasoju Aruna</h1>
 <h3 align="center">I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!</h3>
 
 **Organize by:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Our Business Partner:**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Area of Study:**
@@ -35,28 +23,14 @@ Here are some ideas to get you started:
 
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
 
-### Connect me @  &nbsp; ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FReubenChan8) &nbsp; and  &nbsp; [![LinkedIn][1.2]][1]
+### Connect me @ &nbsp; [![LinkedIn][1.2]][1]
   
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
 
-[1]: https://www.linkedin.com/in/reubenchanep/
-
-<details>
-  <summary>Click to expand!</summary>
-   
-![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReubenChan&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReubenChan&layout=compact)](https://github.com/ReubenChan/github-readme-stats)
-
-</details>
-<details>
-  <summary>Click to expand!</summary>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@reubenchan/3eeea877-c110-469b-ab3f-07e8e4c8b3c4.png"height="500" /></a>
-
-</details>
+[1]: https://www.linkedin.com/in/kasojuaruna/
 
 
 
-<!---
-ReubenChan/ReubenChan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 
