@@ -5,23 +5,24 @@
 <h1 align="center">Hi 👋, I'm Kasoju Aruna</h1>
 <h3 align="center">I'm undergoing traineeship for 3 months bootcamp + 6 months apprenticeship to become a Cloud Support and DevOps practitioner!</h3>
 
-**Organize by:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Our Business Partner:**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Area of Study:**
+<h1 align="center">Hi 👋, I'm Kasoju Aruna</h1>
+<h3 align="center">A Software Engineer</h3>
 
-<img src="https://user-images.githubusercontent.com/81150223/117519640-f3053900-afd6-11eb-8a2d-71c4eb849e23.jpg" width="80" title="hover text"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/81150223/117519854-095fc480-afd8-11eb-97e9-6239346a31f7.png" width="80" title="hover text"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/81150223/117520107-36f93d80-afd9-11eb-908c-89ca42248f65.png" width="80" title="hover text"> 
+- 🔭 I’m currently working on **Devops and Cloud**
 
--👨‍🎓 **I'm studying on educational websites such as**
-<p align="left"> <a href="https://acloudguru.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/81150223/117520314-2e553700-afda-11eb-8641-7e3d6e0efe80.png" alt="azure" width="70" height="70"/> </a> <a href="https://www.w3schools.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/81150223/117520440-c521f380-afda-11eb-94a6-b09013f2c4be.png" alt="azure" width="70" height="70"/> </a>  <a href="https://docs.microsoft.com/en-us/learn/" target="_blank"> <img src="https://user-images.githubusercontent.com/81150223/117520638-b7b93900-afdb-11eb-88b4-1b1d5fc58b09.png" alt="azure" width="100" height="70"/> </a> <a href="https://www.udemy.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/81150223/117520699-31e9bd80-afdc-11eb-83c2-f6f8015ee3c9.png" alt="azure" width="100" height="70"/> </a>
+- 🌱 I’m currently learning **Linux, Python, Azure, Terraform, Ansible**
 
-- 🔭 I’m working on **contributing towards GitHub repo's and bulding my own python projects** <img src="https://img.shields.io/static/v1?label=GITHUB&message=PYTHON&color=blueviolet">
-   
-- ⚡ Fun fact **I love to watch aeroplanes** <img src="https://img.shields.io/badge/777%20-380-blue.svg" alt="777 & 380">
+- 💬 Ask me about **Visual C#.NET, WPF**
 
+- 📫 How to reach me **arunakasoju@yahoo.com**
 
-- 👩‍💻 **Motivated to upskill in** <img src="https://img.shields.io/badge/refer to-image below-yellowgreen.svg">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/arunakasoju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arunakasoju" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  <img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ### Connect me @ &nbsp; [![LinkedIn][1.2]][1]
   
